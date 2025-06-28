@@ -22,4 +22,5 @@ bandit5@bandit:~/inhere$ find . -size 1033c
 
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2  
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG                                                                                                                                
-## Password for Level 5                                                                                                     HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+## Password for Level 5                                                                                                     
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
